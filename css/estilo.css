@@ -1,9 +1,9 @@
 /* Importação de fonte */
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 /*Resetando regras do CSS */
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 5px;
+    padding: 5px;
     box-sizing: border-box;
     outline: none;
     font-family: "kaushan Script", sans-serif;
@@ -249,13 +249,7 @@ padding: 50px 10px;
     justify-content: space-between;
 }
 
-.left {
-    width: 25%;
-    min-width: 300px;
-    height: 100%;
-    background: #000000a1;
-    border-radius: 8px;
-}
+.
 
 .right {
     width: 65%;
@@ -264,6 +258,7 @@ padding: 50px 10px;
     flex-direction: column;
     align-items: flex-start;
     padding-top: 10%;
+   
 }
 
 .right h3 {
@@ -277,7 +272,7 @@ padding: 50px 10px;
     font-size: 1em;
     letter-spacing: 2px;
     text-align: right;
-    color: rgba(0, 0, 0, 0.4);
+    color: rgb(0, 0, 0);
 }
 
 /*Feedbacks*/
