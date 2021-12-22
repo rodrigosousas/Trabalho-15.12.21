@@ -5,7 +5,7 @@
     box-sizing: border-box;
     outline: none;
     font-family: "kaushan Script", sans-serif;
-    font-size: 16.5px;
+    font-size: 16.5px; 
 }
 :root {
     --yellow: #ffe000ba;
